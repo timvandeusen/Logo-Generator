@@ -1,0 +1,14 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "logo-generator.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "type": "module",  
+    "devDependencies": {
+      "jest": "^27.0.0"
+    }
+  }
+  
